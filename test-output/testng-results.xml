@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="67162" started-at="2020-06-05T17:52:00Z" finished-at="2020-06-05T17:53:07Z">
+  <suite name="Default suite" duration-ms="65702" started-at="2020-06-05T18:07:13Z" finished-at="2020-06-05T18:08:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="67162" started-at="2020-06-05T17:52:00Z" finished-at="2020-06-05T17:53:07Z">
+    <test name="Default test" duration-ms="65702" started-at="2020-06-05T18:07:13Z" finished-at="2020-06-05T18:08:18Z">
       <class name="com.info.datadrivenTest.Lognfun">
-        <test-method status="PASS" signature="Testloginfun()[pri:0, instance:com.info.datadrivenTest.Lognfun@2d45ba]" name="Testloginfun" duration-ms="67138" started-at="2020-06-05T23:22:00Z" finished-at="2020-06-05T23:23:07Z">
+        <test-method status="PASS" signature="Testloginfun()[pri:0, instance:com.info.datadrivenTest.Lognfun@2d45ba]" name="Testloginfun" duration-ms="65680" started-at="2020-06-05T23:37:13Z" finished-at="2020-06-05T23:38:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testloginfun -->
