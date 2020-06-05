@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67162" started-at="2020-06-05T17:52:00Z" finished-at="2020-06-05T17:53:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67162" started-at="2020-06-05T17:52:00Z" finished-at="2020-06-05T17:53:07Z">
+      <class name="com.info.datadrivenTest.Lognfun">
+        <test-method status="PASS" signature="Testloginfun()[pri:0, instance:com.info.datadrivenTest.Lognfun@2d45ba]" name="Testloginfun" duration-ms="67138" started-at="2020-06-05T23:22:00Z" finished-at="2020-06-05T23:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testloginfun -->
+      </class> <!-- com.info.datadrivenTest.Lognfun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
